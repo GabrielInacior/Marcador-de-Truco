@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MarcadorTruco.CustomAlert">
+
+    <StackLayout>
+        <Label Text="Esta é a sua página de alerta personalizada!" />
+        <Image Source="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpqN3gwNWFpdXdqYnRmN3E2M256NjZvNnJ2MzJkY3E5eHdiMmUzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/azUl0qKaJ8X6NlhKdE/giphy.gif" Aspect="AspectFit" IsAnimationPlaying="True" />
+        <!-- Adicione outros elementos conforme necessário -->
+    </StackLayout>
+
+</ContentPage>

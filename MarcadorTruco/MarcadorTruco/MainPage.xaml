@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MarcadorTruco.MainPage">
+
+    <StackLayout BackgroundColor="White">
+        <Label Text="Marcador de Truco" FontSize="30"  HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" Margin="0, 30"
+               FontFamily="Poppins" FontAttributes="Bold" TextColor="#1c1c1c" />
+        <FlexLayout Margin="0,0,0,0" HorizontalOptions="Center">
+            <StackLayout HorizontalOptions="CenterAndExpand" WidthRequest="130" Padding="32,60,0,60">
+                <Entry Text="{Binding TextoPessoa1}"  Placeholder="Equipe 1" FontSize="23" HorizontalOptions="CenterAndExpand" Margin ="0,0,0,0" FontAttributes="Bold" TextColor="#1c1c1c" 
+                       PlaceholderColor="#525252" x:Name="Entry1"/>
+                <FlexLayout></FlexLayout>
+                <Label Text="{Binding Equipe1Pontos}" FontSize="110" HorizontalOptions="CenterAndExpand" FontAttributes="Bold" TextColor="#123d82" />
+                
+                <StackLayout>
+                    <Button Text="+1"  HorizontalOptions="CenterAndExpand" Clicked="Button_Clicked"  FontAttributes="Bold" FontFamily="" x:Name="btnEquipe1" FontSize="18"  
+                            BackgroundColor="#f2f3f5" BorderColor="#123d82" BorderWidth="2" TextColor="#1c1c1c"/>
+                    <Button Text="-1"  HorizontalOptions="CenterAndExpand" Clicked="Button_Clicked_1"  FontAttributes="Bold"  FontSize="18" BackgroundColor="#f2f3f5" 
+                            BorderColor="#123d82" BorderWidth="2" TextColor="#1c1c1c" />
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout HorizontalOptions="CenterAndExpand" Padding="60,60,0,60" WidthRequest="130">
+                <Entry Text="{Binding TextoPessoa2}" Placeholder="Equipe 2" FontSize="23" HorizontalOptions="CenterAndExpand" Margin="0,0,0,8" FontAttributes="Bold" TextColor="#1c1c1c" 
+                        PlaceholderColor="#525252" x:Name="Entry2"/>
+                <Label Text="{Binding Equipe2Pontos}" FontSize="110" HorizontalOptions="CenterAndExpand" FontAttributes="Bold" TextColor="#123d82" />
+                <StackLayout>
+                    <Button Text="+1"  HorizontalOptions="CenterAndExpand" Clicked="Button_Clicked_2"   FontAttributes="Bold" x:Name="btnEquipe2" FontSize="18" BackgroundColor="#f2f3f5"
+                            BorderColor="#123d82" BorderWidth="2" TextColor="#1c1c1c" />
+                    <Button Text="-1"  HorizontalOptions="CenterAndExpand" Clicked="Button_Clicked_3"  FontAttributes="Bold" FontSize="18" BackgroundColor="#f2f3f5" BorderColor="#123d82" BorderWidth="2"
+                            TextColor="#1c1c1c" />
+                </StackLayout>
+            </StackLayout>
+
+        </FlexLayout>
+
+        <Button Text="TRUCO"  HorizontalOptions="CenterAndExpand" Clicked="Button_Clicked_4" FontSize="30" FontAttributes="Bold" Margin="0,0,0,0" WidthRequest ="160" 
+                HeightRequest="70" BackgroundColor="#f2f3f5" BorderColor="#123d82" BorderWidth="2" TextColor="#1c1c1c"/>
+        <Button Text="Zerar"  HorizontalOptions="CenterAndExpand" Clicked="Button_Clicked_5" FontSize="15" FontAttributes="Bold" Margin="0,50,0,200" WidthRequest ="100" HeightRequest="50" BackgroundColor="#123d82" BorderColor="#123d82" BorderWidth="2" TextColor="White"/>
+
+    </StackLayout>
+
+</ContentPage>

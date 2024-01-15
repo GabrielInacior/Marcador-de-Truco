@@ -1,0 +1,15 @@
+C:\Users\JoaoVictor\Downloads\PROG\Calc\MarcadorTruco\MarcadorTruco\MarcadorTruco\bin\Debug\netstandard2.0\MarcadorTruco.deps.json
+C:\Users\JoaoVictor\Downloads\PROG\Calc\MarcadorTruco\MarcadorTruco\MarcadorTruco\bin\Debug\netstandard2.0\MarcadorTruco.dll
+C:\Users\JoaoVictor\Downloads\PROG\Calc\MarcadorTruco\MarcadorTruco\MarcadorTruco\bin\Debug\netstandard2.0\ref\MarcadorTruco.dll
+C:\Users\JoaoVictor\Downloads\PROG\Calc\MarcadorTruco\MarcadorTruco\MarcadorTruco\bin\Debug\netstandard2.0\MarcadorTruco.pdb
+C:\Users\JoaoVictor\Downloads\PROG\Calc\MarcadorTruco\MarcadorTruco\MarcadorTruco\obj\Debug\netstandard2.0\MarcadorTruco.csproj.AssemblyReference.cache
+C:\Users\JoaoVictor\Downloads\PROG\Calc\MarcadorTruco\MarcadorTruco\MarcadorTruco\obj\Debug\netstandard2.0\MarcadorTruco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoaoVictor\Downloads\PROG\Calc\MarcadorTruco\MarcadorTruco\MarcadorTruco\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\JoaoVictor\Downloads\PROG\Calc\MarcadorTruco\MarcadorTruco\MarcadorTruco\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\JoaoVictor\Downloads\PROG\Calc\MarcadorTruco\MarcadorTruco\MarcadorTruco\obj\Debug\netstandard2.0\MarcadorTruco.AssemblyInfoInputs.cache
+C:\Users\JoaoVictor\Downloads\PROG\Calc\MarcadorTruco\MarcadorTruco\MarcadorTruco\obj\Debug\netstandard2.0\MarcadorTruco.AssemblyInfo.cs
+C:\Users\JoaoVictor\Downloads\PROG\Calc\MarcadorTruco\MarcadorTruco\MarcadorTruco\obj\Debug\netstandard2.0\MarcadorTruco.csproj.CoreCompileInputs.cache
+C:\Users\JoaoVictor\Downloads\PROG\Calc\MarcadorTruco\MarcadorTruco\MarcadorTruco\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\JoaoVictor\Downloads\PROG\Calc\MarcadorTruco\MarcadorTruco\MarcadorTruco\obj\Debug\netstandard2.0\MarcadorTruco.dll
+C:\Users\JoaoVictor\Downloads\PROG\Calc\MarcadorTruco\MarcadorTruco\MarcadorTruco\obj\Debug\netstandard2.0\refint\MarcadorTruco.dll
+C:\Users\JoaoVictor\Downloads\PROG\Calc\MarcadorTruco\MarcadorTruco\MarcadorTruco\obj\Debug\netstandard2.0\MarcadorTruco.pdb
